@@ -1,3 +1,7 @@
+/*
+    Monty's version of NAPP TIME
+ */
+
 package com.example.monty.napptime;
 
 import android.support.v7.app.AppCompatActivity;
