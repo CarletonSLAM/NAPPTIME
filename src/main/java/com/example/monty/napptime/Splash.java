@@ -9,6 +9,7 @@ import android.os.Bundle;
  */
 public class Splash extends Activity {
 
+    //Runs splash screen for 3 seconds for testing purposes
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         // TODO Auto-generated method stub
