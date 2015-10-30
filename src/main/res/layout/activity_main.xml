@@ -7,29 +7,42 @@
     android:background="@drawable/main_background">
 
 
-    <EditText
+    <Spinner
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Select bus route"
-        android:layout_marginTop="180dp" />
-    <EditText
+        android:id="@+id/busNum"
+        android:layout_gravity="center_horizontal"
+        android:spinnerMode="dropdown"
+        android:layout_marginTop="200dp" />
+
+    <Spinner
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Choose your destination" />
-    <EditText
+        android:id="@+id/destination"
+        android:layout_gravity="center_horizontal"
+        android:spinnerMode="dropdown" />
+
+    <Spinner
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Set alarm sound" />
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:gravity="top"
-        android:hint=" " />
+        android:id="@+id/ringtone"
+        android:layout_gravity="center_horizontal"
+        android:spinnerMode="dropdown" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Begin napping"
+        android:id="@+id/startButton"
+        android:layout_gravity="center_horizontal" />
+
     <Button
         android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:layout_gravity="right"
         android:text="How to use"
-        android:onClick="howtoClicked" />
+        android:onClick="howtoClicked"
+        android:layout_marginTop="10dp"
+        android:id="@+id/howToUse" />
+
 </LinearLayout>
