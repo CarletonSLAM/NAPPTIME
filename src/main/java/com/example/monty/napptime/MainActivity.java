@@ -4,6 +4,7 @@
 
 package com.example.monty.napptime;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -42,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void howtoClicked(View v) {
-        Button howto = (Button) v;
-        howto.setText("clicked");
+        Intent getHowto = new Intent(this, HowToUse.class);
+        startActivity(getHowto);
     }
 }
