@@ -4,4 +4,171 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_how_to_use">HowToUse</string>
+
+    <string-array name="routes">
+        <item>O-Train Bayview  Greenboro</item>
+        <item>1 South Keys  Ottawa-Rockcliffe</item>
+        <item>2 Downtown  Bayshore</item>
+        <item>4 Hurdman  Rideau Centre</item>
+        <item>5 Billings Bridge  St-Laurent</item>
+        <item>6 Hurdman  Tunney\'s Pasture</item>
+        <item>7 Carleton  St-Laurent</item>
+        <item>8 Billings Bridge  Gatineau</item>
+        <item>9 Downtown  Hurdman</item>
+        <item>12 Blair  Downtown</item>
+        <item>14 St-Laurent  Carlington</item>
+        <item>16 Main  Britannia</item>
+        <item>18 St-Laurent  Rideau Centre</item>
+        <item>20 Downtown  Orléans</item>
+        <item>21 Downtown  Orléans</item>
+        <item>22 Downtown  Millennium</item>
+        <item>24 Downtown  Beacon Hill</item>
+        <item>27 Gatineau &amp; LeBreton  Orléans</item>
+        <item>30 Downtown  Jeanne d\'Arc</item>
+        <item>31 Downtown  Jeanne d\'Arc</item>
+        <item>34 Downtown  Jeanne d\'Arc</item>
+        <item>35 Downtown  Orléans</item>
+        <item>37 Downtown  Jeanne d\'Arc</item>
+        <item>38 Downtown  Jeanne d\'Arc</item>
+        <item>40 Gatineau &amp; LeBreton  Blossom Park</item>
+        <item>41 Downtown  Walkley</item>
+        <item>43 Downtown  Conroy</item>
+        <item>60 Downtown  Kanata</item>
+        <item>61 Downtown  Kanata</item>
+        <item>62 Downtown  Kanata</item>
+        <item>64 Downtown  Kanata</item>
+        <item>65 Downtown  Kanata</item>
+        <item>66 Downtown  Kanata</item>
+        <item>67 Downtown  Pinecrest</item>
+        <item>68 Downtown  Kanata</item>
+        <item>69 Downtown  Bells Corners</item>
+        <item>70 Downtown  Barrhaven</item>
+        <item>71 Downtown  Barrhaven</item>
+        <item>72 Downtown  Barrhaven</item>
+        <item>73 Downtown  Barrhaven</item>
+        <item>77 Downtown  Barrhaven</item>
+        <item>85 Hurdman &amp; Mackenzie King  Bayshore</item>
+        <item>86 Elmvale  Baseline/Colonnade</item>
+        <item>87 South Keys  Carlingwood/Baseline</item>
+        <item>91 Orléans &amp; Trim  Baseline</item>
+        <item>92 St-Laurent  Terry Fox &amp; Stittsville</item>
+        <item>93 Lincoln Fields &amp; LeBreton  Kanata North</item>
+        <item>94 Millennium  Riverview</item>
+        <item>95 Orléans &amp; Trim  Baseline/Barrhaven</item>
+        <item>96 St-Laurent  Terry Fox &amp; Stittsville</item>
+        <item>97 Airport  Bayshore &amp; Bells Corners</item>
+        <item>98 Hawthorne  Greenboro &amp; Tunney\'s Pasture</item>
+        <item>99 Greenboro &amp; LeBreton  Riverview &amp; Manotick</item>
+        <item>101 St-Laurent  Bayshore</item>
+        <item>105 Gatineau  Tunney\'s Pasture</item>
+        <item>106 Elmvale  Hurdman</item>
+        <item>107 Bayview  South Keys</item>
+        <item>111 Billings Bridge &amp; Carleton  Baseline</item>
+        <item>112 Elmvale  Billings Bridge</item>
+        <item>114 Hurdman  Elmvale &amp; Greenboro</item>
+        <item>116 Greenboro &amp; Hurdman  Merivale</item>
+        <item>118 Hurdman  Kanata</item>
+        <item>120 Place d\'Orléans  Portobello</item>
+        <item>121 Blair  Hurdman</item>
+        <item>122 Millennium  Place d\'Orléans</item>
+        <item>123 Beacon Hill / Blair</item>
+        <item>124 Beacon Hill  St-Laurent</item>
+        <item>126 Blair  Pineview</item>
+        <item>128 Blackburn Hamlet  Blair</item>
+        <item>129 Carson\'s  Hurdman</item>
+        <item>130 Millennium  Blair</item>
+        <item>131 Convent Glen  Chapel Hill</item>
+        <item>132 Place d\'Orléans  Sunview</item>
+        <item>134 Renaud  Place d\'Orléans</item>
+        <item>135 Esprit  Place d\'Orléans</item>
+        <item>136 Place d\'Orléans  Tenth Line</item>
+        <item>137 Queenswood Heights / Place d\'Orléans</item>
+        <item>140 McCarthy  Hurdman</item>
+        <item>143 Conroy  South Keys</item>
+        <item>144 Leitrim &amp; Gloucester South  South Keys</item>
+        <item>146 South Keys  Billings Bridge &amp; Hurdman</item>
+        <item>147 Uplands / South Keys</item>
+        <item>148 Elmvale  Hurdman &amp; Billings Bridge</item>
+        <item>149 Elmvale  Hurdman</item>
+        <item>150 Tunney\'s Pasture  Lincoln Fields</item>
+        <item>151 Tunney\'s Pasture  Clyde</item>
+        <item>152 Lincoln Fields  Moodie</item>
+        <item>153 Carlingwood  Lincoln Fields</item>
+        <item>154 Queensway Terrace  Lincoln Fields</item>
+        <item>155 Queensway Terrace  Bayshore</item>
+        <item>156 Baseline  Viewmount</item>
+        <item>157 Baseline  Amberwood</item>
+        <item>159 Tunney\'s Pasture / Local</item>
+        <item>161 Bridlewood  Terry Fox</item>
+        <item>162 Terry Fox  Stittsville</item>
+        <item>164 Terry Fox  Hope Side</item>
+        <item>165 Kanata North  Terry Fox</item>
+        <item>168 Terry Fox  Bridlewood</item>
+        <item>170 Fallowfield  Barrhaven Centre</item>
+        <item>171 Fallowfield  Barrhaven Centre</item>
+        <item>172 Lincoln Fields &amp; Baseline  Bayshore</item>
+        <item>173 Barrhaven Centre  Fallowfield &amp; Bayshore</item>
+        <item>174 Baseline  Knoxdale</item>
+        <item>175 Golflinks  Barrhaven Centre</item>
+        <item>176 Barrhaven Centre  Tunney\'s Pasture</item>
+        <item>177 Barrhaven Centre  Cambrian</item>
+        <item>178 Lincoln Fields / Centrepointe</item>
+        <item>180 Bayshore  Haanel</item>
+        <item>181 Eagleson  Kanata North</item>
+        <item>182 Kanata  Lincoln Fields</item>
+        <item>185 LeBreton / Experimental Farm</item>
+        <item>186 Manotick  Barrhaven Centre</item>
+        <item>188 Canadian Tire Centre  Huntmar</item>
+        <item>189 Riverview  Greenboro</item>
+        <item>192 Hawthorne  Hurdman</item>
+        <item>193 Place d\'Orléans  Blair</item>
+        <item>194 Canotek  Blair</item>
+        <item>196 Tanger  Terry Fox</item>
+        <item>198 Petrie Island  Place d\'Orléans</item>
+        <item>199 Barrhaven  Place d\'Orléans</item>
+        <item>201 Carlingwood  Richmond/Stittsville</item>
+        <item>202 St-Laurent  Navan/Sarsfield/Cumberland</item>
+        <item>203 Carlingwood  Dunrobin/Carp</item>
+        <item>204 Billings Bridge  Metcalfe/Greely</item>
+        <item>205 Carlingwood  Manotick/North Gower/Kars</item>
+        <item>221 Downtown  Cumberland</item>
+        <item>231 Downtown  Navan</item>
+        <item>232 Downtown  Vars</item>
+        <item>261 Downtown  Stittsville</item>
+        <item>262 Downtown  Stittsville</item>
+        <item>263 Downtown  Stittsville</item>
+        <item>283 Downtown  Richmond</item>
+        <item>401 Canadian Tire Centre</item>
+        <item>402 Canadian Tire Centre</item>
+        <item>403 Canadian Tire Centre</item>
+        <item>404 Canadian Tire Centre</item>
+        <item>405 Canadian Tire Centre</item>
+        <item>406 Canadian Tire Centre</item>
+        <item>450 Lansdowne  Rideau Centre</item>
+        <item>451 Lansdowne Park  Blair</item>
+        <item>452 Lansdowne Park  South Keys</item>
+        <item>454 Lansdowne  Terry Fox</item>
+        <item>455 Lansdowne  Trim</item>
+        <item>456 Lansdowne Park  Barrhaven Centre</item>
+        <item>602 É. S  De La Salle  Hurdman</item>
+        <item>611 É. S. Gisèle Lalonde  Chapel Hill</item>
+        <item>612 É. S. Gisèle Lalonde  Chapel Hill</item>
+        <item>613 Immaculata H. S / Downtown</item>
+        <item>618 É. S  Louis Riel  Orléans</item>
+        <item>619 É. S  Louis Riel  Blair</item>
+        <item>622 Colonel By  S.S.  Blackburn/Page</item>
+        <item>632 É. S. Gisèle Lalonde  Queenswood</item>
+        <item>633 Lester B Pearson H.S.  St. Laurent</item>
+        <item>640 Brookfield H.S.  Greenboro</item>
+        <item>641 É. S. Louis Riel  Orléans</item>
+        <item>648 É. S  Louis Riel  Chapel Hill</item>
+        <item>661 Bell H.S.  Kanata Lakes</item>
+        <item>665 Bell H.S.  Bridlewood</item>
+        <item>669 Bell H.S.  Bayshore</item>
+        <item>670 St. Pius X H.S.  Nepean Centre</item>
+        <item>674 All Saints H.S.Stephen Leacock  Morgans Grant</item>
+        <item>678 É. S  Louis Riel  Orléans</item>
+        <item>681 Bell H.S.  Glen Cairn</item>
+        <item>691 É. S. Deslauriers  Bayshore</item>
+    </string-array>
 </resources>

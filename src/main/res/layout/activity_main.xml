@@ -13,7 +13,8 @@
         android:id="@+id/busNum"
         android:layout_gravity="center_horizontal"
         android:spinnerMode="dropdown"
-        android:layout_marginTop="200dp" />
+        android:layout_marginTop="200dp"
+        android:entries="@array/routes"/>
 
     <Spinner
         android:layout_width="match_parent"
