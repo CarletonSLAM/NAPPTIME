@@ -171,4 +171,5 @@
         <item>681 Bell H.S.  Glen Cairn</item>
         <item>691 É. S. Deslauriers  Bayshore</item>
     </string-array>
+    <string name="title_activity_maps">Map</string>
 </resources>
